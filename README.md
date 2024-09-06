@@ -1,6 +1,6 @@
 # Static, Shared Dynamic and Loadable Linux Libraries
 
-Test of simple **Static**, Shared Dynamic and Loadable Linux Libraries.
+Build **Static**, Shared **Dynamic** and **Loadable** Linux Libraries in C.
 
 Source: http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
 
