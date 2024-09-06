@@ -1,0 +1,11 @@
+# application executables
+prog
+
+# C object files
+*.o
+
+# static libraries (.a)
+*.a
+
+# dynamically linked shared object libraries (.so)
+*.so*

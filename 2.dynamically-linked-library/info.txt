@@ -1,0 +1,19 @@
+https://www.tecmint.com/understanding-shared-libraries-in-linux/
+Dynamically linked libraries – here a program is linked with the shared library and the kernel loads the library (in case it’s not in memory) upon execution.
+
+
+http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
+Man Pages:
+    gcc - GNU C compiler
+    ld - The GNU Linker
+    ldd - List library dependencies
+    ldconfig - configure dynamic linker run time bindings (update cache /etc/ld.so.cache)
+		ldconfig creates the necessary links  and  cache	 to  the  most	recent
+		shared  libraries  found	 in  the  directories specified on the command
+		line, in the file /etc/ld.so.conf, and in the trusted directories, /lib
+		and  /usr/lib  (on  some	 64-bit	 architectures such as x86-64, lib and
+		/usr/lib are the trusted directories for 32-bit libraries, while /lib64
+		and /usr/lib64 are used for 64-bit libraries).
+
+
+

@@ -1,0 +1,2 @@
+Dynamically loaded libraries - the program takes full control by calling functions with the library.
+
